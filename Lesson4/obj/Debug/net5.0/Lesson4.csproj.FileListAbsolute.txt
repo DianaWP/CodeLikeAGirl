@@ -1,0 +1,16 @@
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.csprojAssemblyReference.cache
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.AssemblyInfoInputs.cache
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.AssemblyInfo.cs
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\Lesson4.exe
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\Lesson4.deps.json
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\Lesson4.runtimeconfig.json
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\Lesson4.runtimeconfig.dev.json
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\Lesson4.dll
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\ref\Lesson4.dll
+C:\Users\diana\CodeLikeaGirl\Lesson4\bin\Debug\net5.0\Lesson4.pdb
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.dll
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\ref\Lesson4.dll
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.pdb
+C:\Users\diana\CodeLikeaGirl\Lesson4\obj\Debug\net5.0\Lesson4.genruntimeconfig.cache
